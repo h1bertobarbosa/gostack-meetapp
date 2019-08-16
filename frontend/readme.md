@@ -1,7 +1,3 @@
-# Resposta do [Desafio 09 Front-end do Meetapp](https://github.com/Rocketseat/bootcamp-gostack-desafio-09#desafio-09-front-end-do-meetapp)
-
-** Backend do [Desafio](https://github.com/h1bertobarbosa/bootcamp-desafio-Meetapp-nodejs) **
-
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
